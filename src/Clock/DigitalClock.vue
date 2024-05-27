@@ -21,7 +21,7 @@
             <p class="time">
                 {{ state.time }}
             </p>
-            <p class="text">DIGITAL CLOCK with Vue.js</p>
+            <p class="text">DIGITAL CLOCK made with Vue.js</p>
         </div>
     </div>
 </template>
